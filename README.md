@@ -62,12 +62,6 @@ time, since the dissolve runs on the fly.
    often as you like — layers already on the map are re-styled in place
    rather than duplicated.
 
-### Install paths
-
-- **Windows:** `C:\Users\<you>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\`
-- **macOS:** `~/Library/Application Support/QGIS/QGIS3/profiles/default/python/plugins/`
-- **Linux:** `~/.local/share/QGIS/QGIS3/profiles/default/python/plugins/`
-
 ## Filtering Towns & Sections by Region or District
 
 At the bottom of the dialog is a **"Show only Towns & Sections within a
