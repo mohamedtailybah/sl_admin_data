@@ -2,7 +2,7 @@
 
 **Author:** Mohamed Taily Bah
 
-All boundary data ships **inside** the plugin as embedded shapefiles — once
+All boundary data shapes **inside** the plugin as embedded shapefiles — once
 installed, you don't need to source or load any external shapefiles.
 
 ## What's included
