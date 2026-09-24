@@ -4,7 +4,7 @@ qgisMinimumVersion=3.0
 description=Sierra Leone administrative boundaries (Regions, Districts, Chiefdoms, Sections) plus Towns, Major Towns, Roads, Rivers, Lakes, Mangroves and Forest Reserves - all embedded in the plugin, no shapefiles needed. Choose which layers to display, classify each by color, and filter Towns/Sections by Region or District.
 version=0.3
 author=Mohamed Taily Bah
-email=mohamedtailybah@example.com
+email=mtailybah@gmail.com
 
 about=Ships with Sierra Leone's District, Chiefdom, Section, Town, Major Town, Road, River, Lake, Mangrove and Forest Reserve data embedded as shapefiles inside the plugin package. A Regions layer is derived automatically by dissolving Districts using the region/district relationship already present in the Sections data. Pick which layers to show and classify each one by color using any of its attributes. Towns and Sections can also be filtered down to just those within a chosen Region or District.
 tracker=
